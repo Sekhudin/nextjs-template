@@ -13,8 +13,8 @@
   "aliases": {
     "components": "src/components",
     "ui": "src/packages/ui",
-    "lib": "src/packages/utils",
-    "utils": "src/packages/utils",
+    "lib": "src/packages",
+    "utils": "src/packages",
     "hooks": "src/packages/hooks"
   }
 }
